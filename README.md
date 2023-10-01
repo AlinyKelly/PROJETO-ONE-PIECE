@@ -26,10 +26,6 @@ Contribuições são bem-vindas! Se você deseja melhorar este projeto ou adicio
 4. Envie as alterações para seu fork: `git push origin sua-feature`
 5. Abra um pull request neste repositório.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
-
 ## Agradecimentos
 
 - Aos criadores de One Piece, Eiichiro Oda, por nos dar um mundo tão incrível para explorar.
